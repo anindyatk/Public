@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.anindya.devtest", "com.anindya.devtest\com.anindya.devtest.csproj", "{FF995E45-FF5F-41C5-95A1-81A676DB257C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAlgorithm", "BasicAlgorithm\BasicAlgorithm.csproj", "{A97DFEBA-5B3A-449C-B02C-1E845CD56C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF995E45-FF5F-41C5-95A1-81A676DB257C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF995E45-FF5F-41C5-95A1-81A676DB257C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF995E45-FF5F-41C5-95A1-81A676DB257C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF995E45-FF5F-41C5-95A1-81A676DB257C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97DFEBA-5B3A-449C-B02C-1E845CD56C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97DFEBA-5B3A-449C-B02C-1E845CD56C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97DFEBA-5B3A-449C-B02C-1E845CD56C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97DFEBA-5B3A-449C-B02C-1E845CD56C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A56F39-F644-49EE-9532-DB07F083B3C9}
+	EndGlobalSection
+EndGlobal
